@@ -21,4 +21,4 @@ The Anniversary Multiplayer Project is a community-driven effort to faithfully r
 [Epsilon](https://github.com/MtnDewIt/Epsilon-NET-Test) (GUI for TagTool)
 
 ## Connect with us
-Join the [HaloBase](https://discord.gg/PxPNNteChR) and [ElDewrito Modding](https://discord.gg/CPc7Gf7TPf) Discord servers to get in touch with the devs and the ElDewrito community! Game nights and playtests are also arranged in these servers so be on the lookout to play pre-release content!
+Join the [HaloBase](https://discord.gg/PxPNNteChR) and [ElDewrito](https://discord.gg/CPc7Gf7TPf) Discord servers to get in touch with the devs and the ElDewrito community! Game nights and playtests are also arranged in these servers so be on the lookout to play pre-release content!
