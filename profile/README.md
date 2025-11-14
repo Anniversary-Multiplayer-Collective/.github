@@ -12,7 +12,7 @@ The Anniversary Multiplayer Project is a community-driven effort to faithfully r
 | :yellow_square: | Combat Evolved Anniversary MP |
 | :yellow_square: | Halo 2 Anniversary MP         |
 | :red_square: | Halo 3 Anniversary MP         |
-| :yellow_square: | ODST Anniversary MP           |
+| :green_square: | [ODST Anniversary MP](https://fileshare.zgaf.io/api_v2/modview?modId=257)           |
 | :yellow_square: | ODST Anniversary Firefight    |
 | :red_square: | Halo 4 Anniversary MP         |
 
